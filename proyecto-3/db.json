@@ -1,0 +1,71 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "NodeJS desde cero"
+        },
+        {
+          "nombre": "ReactJS desde cero"
+        },
+        {
+          "nombre": "Javascript desde cero"
+        }
+      ],
+      "id": "KM4yRXkRhmg"
+    },
+    {
+      "nombre": "Rafael",
+      "apellido": "Alvarez",
+      "materias": [
+        {
+          "nombre": "Java desde 0"
+        },
+        {
+          "nombre": "Spring boot desde 0"
+        },
+        {
+          "nombre": "Angular desde 0"
+        }
+      ],
+      "id": "APelq9kaRv4"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "María",
+      "apellido": "Rodríguez",
+      "promedio": 8.2,
+      "id": "nte2F-59xC0"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 10,
+      "id": "NniWN6FuTL8"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde cero",
+      "duración": 7,
+      "dificultad": "intermedia",
+      "id": "ZdN8lCsNiVo"
+    },
+    {
+      "nombre": "ReactJS desde cero",
+      "duración": 8,
+      "dificultad": "intermedia",
+      "id": "TaRVvqhweEg"
+    },
+    {
+      "nombre": "Angular 17 desde cero",
+      "duración": 8,
+      "dificultad": "alta",
+      "id": "uavRO-Je5hU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
